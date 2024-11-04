@@ -1,0 +1,58 @@
+.container-fluid{
+    background-color: black;
+    height: 100vh;
+    color: rgb(255,213,79);
+    background-size: cover;
+}
+.headerimg{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    color: rgb(255,213,79);
+    align-items: center;
+}
+.headerimg1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    color: rgb(255,213,79);
+    align-items: center;
+}
+
+.headerbtn {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    color: rgb(255,213,79);
+    align-items: center;
+}
+.headerbtn button{
+    display: inline-block;
+    width: 180px;
+    white-space: nowrap;
+    overflow: hidden !important;
+    text-overflow: ellipsis;
+    text-decoration: none !important;
+}
+
+.connect{
+    background-color: rgb(255,213,79);
+    color: black;
+    border-radius: 5px;
+    font-size: 20px;
+    border: 1px solid rgb(255,213,79);
+    align-items: center;
+}
+.connect:hover{
+    background-color: rgba(240, 187, 11, 0.986)
+}
+.headerbar{
+    padding-top: 120px;
+}
+.headerbar2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+
