@@ -1,2 +1,0 @@
-# HunterDoge App
-
