@@ -1,0 +1,25 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "bitquery api server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "zeussoft0219",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "csv-string": "^4.0.1",
+    "dotenv": "^10.0.0",
+    "exceljs": "^4.3.0",
+    "google-spreadsheet": "^3.2.0",
+    "ipfs": "^0.62.0",
+    "ipfs-api": "^26.1.2",
+    "ipfs-http-client": "^56.0.0",
+    "nft.storage": "^5.2.2",
+    "node-cron": "^3.0.0",
+    "web3-batch-request": "^1.0.1"
+  }
+}
